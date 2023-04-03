@@ -1,0 +1,57 @@
+.yazi{
+    text-align: center;  
+}
+.yazi p{
+    font-size: 15pt;
+}
+.resim img{
+    float: right;
+    width: 400px;
+}
+.searc{
+    margin-left:650px;
+}
+.footer{
+    text-align: center;
+    height: 370px;
+    background-color: aqua;
+}
+.footer h2{
+    font-size: 25pt;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+.footer p{
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 12pt;
+}
+
+.card{
+    margin-left: 36px;
+    min-height: 330px;
+    margin-top: 70px;
+}
+
+.breadcrumb{
+    margin-top: 80px;
+}
+
+.d-flex searc{
+    margin-right: 90px;
+}
+
+.breadcrumb .breadcrumb-item a{
+    text-decoration: none;
+    color: black;
+}
+
+.col-6 a{
+    text-decoration: none;
+    color: rgb(0, 137, 250);
+}
+
+
+
